@@ -121,9 +121,44 @@ body, h1, h2, h3, h4, h5, h6, span, p, small{
 }
 /*개발 아이콘 설정*/
 .developmentIcon{
-	width: 80px;
-	height: 70px;
 	display: inline-block;
+}
+#developIcon1{
+	width: 3.7vw;
+	height: 3.7vw;
+}
+#developIcon2{
+	width: 5vw;
+	height: 3.5vw;
+}
+#developIcon3{
+	width: 7.3vw;
+	height: 3.5vw;
+}
+#developIcon4{
+	width: 4.2vw;
+	height: 3.5vw;
+}
+#developIcon5{
+	width: 5.5vw;
+	height: 3.5vw;
+}
+#developIcon6{
+	width: 4.2vw;
+	height: 3.5vw;
+}
+#developIcon7{
+	width: 6.2vw;
+	height: 3.5vw;
+}
+#developIcon8{
+	width: 5vw;
+	height: 3.8vw;
+	padding-left: 1rem;
+}
+#developIcon9{
+	width: 8vw;
+	height: 3.5vw;
 }
 /*ABILITY 항목 설정*/
 .abilityContents{
@@ -154,4 +189,17 @@ body, h1, h2, h3, h4, h5, h6, span, p, small{
 .projectImg{
 	width: 90%;
 	height: auto;
+}
+
+footer{
+	width: 100%;
+	padding: 10px 0;
+	background: black;
+	color: white;
+	text-align: center;
+}
+.footerDiv{
+	width: 96%;
+	border-top: 1px solid white;
+	margin: 0 auto;
 }
