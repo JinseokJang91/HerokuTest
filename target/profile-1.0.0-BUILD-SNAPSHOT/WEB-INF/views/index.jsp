@@ -19,7 +19,7 @@
 		<div class="container-fluid">
 			<div id="navbarTitleDiv">
 				<a class="navbar-brand d-flex" href="#mainBody">
-				<b>POTFOLIO</b>
+				<b>PORTFOLIO</b>
 				</a>
 			</div>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu">
